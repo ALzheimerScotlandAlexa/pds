@@ -1,0 +1,186 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "dementia scotland",
+      "intents": [
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GetSupportOptions",
+          "slots": [],
+          "samples": [
+            "what support options are there",
+            "tell me about the support options",
+            "what are the support options",
+            "where can I get support",
+            "where can I get help",
+            "where can I get assistance"
+          ]
+        },
+        {
+          "name": "GetPhoneNumber",
+          "slots": [],
+          "samples": [
+            "phoneline",
+            "helpline",
+            "tell me about the phone line",
+            "who can i call to speak to",
+            "what's the alzheimer scotlands number",
+            "what number do i call",
+            "whats your digits",
+            "What's the phone number"
+          ]
+        },
+        {
+          "name": "GetWebsite",
+          "slots": [],
+          "samples": [
+            "tell me about the website",
+            "do you have a site",
+            "do you have a webpage",
+            "do you have a website",
+            "where can i go online",
+            "whats your website address"
+          ]
+        },
+        {
+          "name": "GetResourceCentre",
+          "slots": [],
+          "samples": [
+            "tell me about resource centres",
+            "can i speak with someone about this in person",
+            "can i speak to someone face to face",
+            "wheres my nearest resource centre",
+            "who can i talk to about this in my area"
+          ]
+        },
+        {
+          "name": "GetActivities",
+          "slots": [],
+          "samples": [
+            "what events can I go to",
+            "what events are on",
+            "tell me more about the activities",
+            "tell me more about the events",
+            "what's on this week",
+            "what activities can i go to",
+            "what activities are on"
+          ]
+        },
+        {
+          "name": "GetSingingGroup",
+          "slots": [],
+          "samples": [
+            "what time's the singing group",
+            "when is the singing group",
+            "tell me more about the singing group"
+          ]
+        },
+        {
+          "name": "GetDementiaCafe",
+          "slots": [],
+          "samples": [
+            "when can i go to the dementia cafe",
+            "what times the dementia cafe at",
+            "tell me more about the demetia cafe"
+          ]
+        },
+        {
+          "name": "GetOasisCafe",
+          "slots": [],
+          "samples": [
+            "what time can i go to the oasis cafe",
+            "when is the oasis cafe",
+            "tell me more about the oasis cafe"
+          ]
+        },
+        {
+          "name": "GetSunflowerCafe",
+          "slots": [],
+          "samples": [
+            "what time is the sunflower cafe on at",
+            "when can i go to the sunflower cafe",
+            "tell me more about the sunflower cafe"
+          ]
+        },
+        {
+          "name": "GetCommonQuestions",
+          "slots": [],
+          "samples": [
+            "common questions",
+            "tell me about the common questions",
+            "tell me about the answers",
+            "tell me about the questions",
+            "I want to know about the answers",
+            "what are the popular questions",
+            "What are the common questions"
+          ]
+        },
+        {
+          "name": "GetDiagnosisQuestions",
+          "slots": [],
+          "samples": [
+            "tell me more about the diagnosis",
+            "I want to know something about the diagnosis",
+            "I have a question about my diagnosis"
+          ]
+        },
+        {
+          "name": "GetDifferenceBetweenDementiaAndAlzheimersAnswer",
+          "slots": [],
+          "samples": [
+            "what is the definition of dementia",
+            "are Dementia and Alzheimer's the same thing",
+            "is Alzheimer's the same as Dementia",
+            "What's the difference between dementia and Alzheimer's",
+            "what is the difference between dementia and Alzheimer's",
+            "the difference between dementia and Alzheimer's"
+          ]
+        },
+        {
+          "name": "GetIsDementiaHeredetaryAnswer",
+          "slots": [],
+          "samples": [
+            "is alzheimers heredetary",
+            "is alzheimers inherited",
+            "is dementia inherited",
+            "Is dementia heredetary"
+          ]
+        },
+        {
+          "name": "GetMedicationQuestions",
+          "slots": [],
+          "samples": ["Tell me about the medication"]
+        },
+        {
+          "name": "GetWhatMedicationExistsQuestion",
+          "slots": [],
+          "samples": [
+            "what medication exists",
+            "does any medication exist",
+            "what medication can i take"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
